@@ -1,0 +1,184 @@
+
+*{
+    margin: 0;
+    
+}
+
+#Qualities{
+    width: fit-content;
+        border: 2px solid white;
+        margin: 0 auto;
+        border-style: dotted ;
+        color: white;
+    }
+    
+    #tittle{
+    background-color: rgb(150, 148, 148);
+    width: 40%;
+    
+    }
+    #bar{
+    width: 500px; 
+    margin: 0 auto;
+    border-color:  silver;
+    font-size: larger;
+    
+    }
+    .tab{
+        margin: 0 auto;
+    }
+    
+    
+    
+    #join{
+        background-color: rgb(121, 66, 66);
+        color: cornsilk;
+        width: 20%;
+    
+        margin: 0 auto;
+        
+    
+    }
+    
+    body{
+        
+    background-image:url(new222.jpg) ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 auto;
+    
+    }
+    .front{
+    color: blanchedalmond;
+    }
+    
+    .crunch{
+        color: rgb(209, 33, 33);
+        
+    }
+    #location {
+        color: rgb(224, 212, 143);
+    text-align: center;
+    border-style:inset; width: 15%;
+    margin: 0 auto;
+    
+    }
+
+th:hover{
+
+    background-color: darkgrey;
+}
+
+   *{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+
+    
+    #road{
+        
+        text-align: center;
+        color: rgb(224, 212, 143);
+        border: floralwhite;
+        border-style: dotted;
+        
+        width: 500px;
+        margin: 0 auto;
+    
+    }
+    #map{
+        
+        text-align: center;
+        
+    }
+    #button{ 
+        margin: auto;
+    
+    }
+
+
+
+
+
+.maindiv ul li{
+    display: inline-block;
+    margin-top: 1px;
+    padding: 15px;
+}
+
+.maindiv{
+
+background-color: rgba(255, 0, 106, 0.26);
+
+width: 1347px;
+height: 51px;
+
+position: sticky;
+top: 0;
+}
+.logoimg{
+    position: relative;
+    top: -123%;
+    left: 70%;
+    
+}
+
+.maindiv ul li a{
+
+    text-decoration: none;
+    color: white;
+}
+
+
+
+header .maindiv ul  :hover{
+    background-color:rgba(0, 0, 0, 0.479);
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+      footer{
+        width: 1347px;
+        height: 50px;
+        background-color: rgba(255, 0, 106, 0.26);
+        }
+        footer p{
+            color: wheat;
+            padding-left: 40%;
+            padding-top: 15PX;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

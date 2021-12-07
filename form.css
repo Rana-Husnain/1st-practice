@@ -1,0 +1,83 @@
+#ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-left: 40%;
+  }
+  
+  .li1 {
+    float: left;
+  }
+  
+  .li1 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .li1 a:hover {
+    background-color: #111;
+  }
+
+
+
+
+
+  #bar{
+    width: 500px;
+   border-color: rgb(167, 157, 157);
+   margin: 0 auto;
+   text-align: center;
+   font-size: larger;
+
+}
+
+h1{margin: 0 auto;
+    text-align: center;
+    background-color: rgba(134, 4, 4, 0.158);
+    color: blanchedalmond;
+    border: dotted white;
+}
+#form{
+    border: 2px dotted rgb(250, 247, 247);
+    width: 30%;
+    text-align: center;
+margin: 0 auto;
+color: rgb(240, 232, 202);
+
+          
+    
+}
+body{
+    background-image: url(kfc-wallpaper-preview.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin: 0;
+}
+#fil{
+    width: fit-content;
+    margin: 0 auto;
+    text-align: justify;
+    
+
+    color: rgb(229, 27, 236) ;
+    font-size: 150%;
+    
+}
+footer{
+width: 1347px;
+height: 50px;
+background-color: rgba(51, 51, 51, 0.527);
+}
+
+
+    footer p{
+        color: wheat;
+        padding-left: 40%;
+        padding-top: 15PX;
+    }
